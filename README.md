@@ -1,2 +1,6 @@
-# ecommerce_capstone
-Responsive E-Commerce Product Catalog built with HTML, CSS, and JavaScript.
+# E-Commerce Product Catalog
+Features:
+- Modular HTML/CSS/JS
+- Client-side hash routing
+- Responsive product catalog
+- Ready for deployment on Vercel/Netlify/GitHub Pages.
